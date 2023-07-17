@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@qiita/qiita-cli": "^0.4.0",
+    "qiita": "^1.2.0",
+    "qiita-cli": "^1.0.4"
+  }
+}
